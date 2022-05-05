@@ -8,7 +8,7 @@
 [Palindrome Number](http://leetcode.com/problems/palindrome-number/#.YnA1lZRYU-8.gmail)
 
 
-[ Next Permutation](http://leetcode.com/problems/next-permutation/#.YnA2cEVLEXQ.gmail)
+[Next Permutation](http://leetcode.com/problems/next-permutation/#.YnA2cEVLEXQ.gmail)
 
 
 [Rotate Image](http://leetcode.com/problems/rotate-image/#.YnA3KyqX3lo.gmail)
@@ -18,3 +18,6 @@
 
 
 [Set Matrix Zeroes](http://leetcode.com/problems/set-matrix-zeroes/#.YnPg_8P6Ksk.gmail)
+
+
+[Best Time to Buy and Sell Stock](http://leetcode.com/problems/best-time-to-buy-and-sell-stock/#.YnPi5z-syNE.gmail)
