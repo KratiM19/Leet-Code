@@ -12,3 +12,9 @@
 
 
 [Rotate Image](http://leetcode.com/problems/rotate-image/#.YnA3KyqX3lo.gmail)
+
+
+[Pascal's Triangle](http://leetcode.com/problems/pascals-triangle/#.YnPgcrexkjI.gmail)
+
+
+[Set Matrix Zeroes](http://leetcode.com/problems/set-matrix-zeroes/#.YnPg_8P6Ksk.gmail)
