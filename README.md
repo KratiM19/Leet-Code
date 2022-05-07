@@ -21,3 +21,6 @@
 
 
 [Best Time to Buy and Sell Stock](http://leetcode.com/problems/best-time-to-buy-and-sell-stock/#.YnPi5z-syNE.gmail)
+
+
+[Convert a Number to Hexadecimal](http://leetcode.com/problems/convert-a-number-to-hexadecimal/#.YnamizmqWUY.gmail)
