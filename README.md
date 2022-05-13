@@ -24,3 +24,11 @@
 
 
 [Convert a Number to Hexadecimal](http://leetcode.com/problems/convert-a-number-to-hexadecimal/#.YnamizmqWUY.gmail)
+
+
+[Remove Element](http://leetcode.com/problems/remove-element/#.Yn5mjvBsHZs.gmail)
+
+
+[Add Binary](http://leetcode.com/problems/add-binary/#.Yn5nclBThNs.gmail)
+
+
